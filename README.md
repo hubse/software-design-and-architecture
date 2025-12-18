@@ -17,8 +17,6 @@ And since the needs of our users changes often, it's important to make sure that
 The stack[](#The-stack)
 -----------------------
 
-Before I show you the map, let me show you the _stack_.
-
 Similar to something like the OSI Model, each layer builds on top of the foundation of the previous one.
 
 * Stage 1: Clean code[](#Stage-1-Clean-code)
@@ -50,8 +48,6 @@ These may seem like small things, but think of it like a game of Jenga. In order
 
 If you ask me, this aspect of _clean code_ is about having good **coding conventions** and following them.
 
-I belive that's only _one_ aspect of writing _clean code_.
-
 My definitive explanation of clean code consists of:
 
 *   🧠 Your developer mindset (empathy, craftsmanship, growth mindset, design thinking)
@@ -63,10 +59,6 @@ Getting into the right mindset is incredibly important if you want to write clea
 If we don't care about the code that we're writing, it's a lot less likely that we're going to implement essential coding conventions, have meaningful discussions, and ask for feedback on our solutions.
 
 We often think that code is solely written to serve the needs of the _end user_, but we forget the **other people we write code for**: us, our teammates, and the project's future maintainers. Having an understanding of the principles of _design_ and how human psychology decides what is _good_ and _bad_ design, will help us write better code.
-
-So essentially, the best word that describes this step of your journey? **Empathy**.
-
-Once we've got that down, learn the _tricks of the trade_ and continue to improve them them over time by improving your knowledge of the essential software development patterns and principles.
 
 
 Stage 2: Programming Paradigms[](#Stage-2-Programming-Paradigms)
@@ -96,10 +88,6 @@ Most developers learning Object-Oriented Programming never get to this part: lea
 
 Functional programming can seem like the means to all ends in this scenario, but I'd recommend getting acquainted with model-driven design and Domain-Driven Design to understand the bigger picture on how object-modelers are able to encapsulate an entire business in a zero-dependency domain model.
 
-> Why is that a huge deal?
-
-It's huge because if you can create a mental-model of a business, you can create a software implementation of that business.
-
 
 Stage 4: Design Principles[](#Stage-4-Design-Principles)
 --------------------------------------------------------
@@ -127,6 +115,7 @@ Some examples of common design principles you should familiarize yourself with a
 *   YAGNI (You Aren't Gonna Need It)
 
 Make sure to come to your _own_ conclusions, though. Don't just follow what someone else says you should do. Make sure that it makes sense to you.
+
 
 Stage 5: Design Patterns[](#Stage-5-Design-Patterns)
 ----------------------------------------------------
