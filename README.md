@@ -50,9 +50,9 @@ If you ask me, this aspect of _clean code_ is about having good **coding convent
 
 My definitive explanation of clean code consists of:
 
-*   🧠 Your developer mindset (empathy, craftsmanship, growth mindset, design thinking)
-*   ⚙️ Your coding conventions (naming things, refactoring, testing, etc)
-*   🤹🏼 Your skills & knowledge (of patterns, principles, and how to avoid code smells and anti-patterns)
+*   Your developer mindset (empathy, craftsmanship, growth mindset, design thinking)
+*   Your coding conventions (naming things, refactoring, testing, etc)
+*   Your skills & knowledge (of patterns, principles, and how to avoid code smells and anti-patterns)
 
 Getting into the right mindset is incredibly important if you want to write clean code. One requirement is that you should care enough to learn about the business you're writing code within. If we don't care about the domain enough to understand it, then how can we be sure we're using **good names** to represent domain concepts? How can we be sure that we've accurately captured the functional requirements?
 
